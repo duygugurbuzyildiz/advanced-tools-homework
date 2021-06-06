@@ -13,7 +13,6 @@
     .primary-photos{
         display: none;
     }
-
   }
   
   h1,
@@ -24,7 +23,7 @@
   }
   
   h1 {
-    font-size: 2rem;
+    font-size: 4rem;
   }
   
   h2 {
